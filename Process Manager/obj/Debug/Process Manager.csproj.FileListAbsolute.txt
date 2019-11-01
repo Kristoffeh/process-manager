@@ -1,0 +1,9 @@
+D:\Sync\Process Manager\Process Manager\Process Manager\bin\Debug\Process Manager.exe.config
+D:\Sync\Process Manager\Process Manager\Process Manager\bin\Debug\Process Manager.exe
+D:\Sync\Process Manager\Process Manager\Process Manager\bin\Debug\Process Manager.pdb
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process Manager.csprojResolveAssemblyReference.cache
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process_Manager.Form1.resources
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process_Manager.Properties.Resources.resources
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process Manager.csproj.GenerateResource.Cache
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process Manager.exe
+D:\Sync\Process Manager\Process Manager\Process Manager\obj\Debug\Process Manager.pdb
